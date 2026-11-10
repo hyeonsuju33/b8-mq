@@ -1,0 +1,7 @@
+{
+  "name": "b8-mq",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test"
+  }
+}
